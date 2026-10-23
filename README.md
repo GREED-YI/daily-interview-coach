@@ -7,3 +7,8 @@
 ## 스택
 
 Next.js (TypeScript) · Supabase · Claude API · Vercel
+
+## 디자인
+
+- [Figma](https://www.figma.com/design/wPjTOU5FJdhdrMWOGZTHdh): 와이어프레임, 브랜드, UI 디자인(모바일·태블릿·PC, 라이트·다크)
+- [UI 디자인 기준](docs/07-ui-design.md) · [브랜드](docs/06-brand.md)
